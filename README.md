@@ -47,5 +47,5 @@ Stay tuned for real-world projects I'm building with modern web technologies �
 
 ---
 
-<h1 align="center"> ⭐⭐⭐ **We always learn, compare and develop everything** ⭐⭐⭐</h1>
+<h3 align="center"> ⭐⭐ **We always learn, compare and develop everything** ⭐⭐</h3>
 
