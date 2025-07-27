@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/welcome-banner.png" alt="Welcome Banner" width="600"/>
-</p>
 <h1 align="center">🎉🎉 Welcome to Henry Lecode's profile 👋👋</h1>
 <h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress 🚀🚀</h3>
 
