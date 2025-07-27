@@ -16,10 +16,13 @@
 
 ### 🔧 Tech Stack
 
-- **Languages**: C, Java, JavaScript, HTML, CSS  
-- **Web**: Node.js, Express.js, React (learning), Spring Boot (learning)  
-- **Tools**: Git & GitHub, VS Code, IntelliJ IDEA, Postman  
-- **Core Concepts**: OOP, REST APIs, MVC, Responsive Web Design
+- **Languages**: C, Java, JavaScript, HTML, CSS, SQL, Python (for AI)
+- **Web Development**: Node.js, Express.js, React (learning), Spring Boot (learning), Bootstrap, JSP/Servlet
+- **Databases**: MySQL, PostgreSQL (learning), MongoDB (learning)
+- **Version Control**: Git, GitHub
+- **Tools & IDEs**: VS Code, IntelliJ IDEA, Eclipse, Postman, Figma (for UI/UX)
+- **Core Concepts**: OOP, RESTful APIs, MVC, Responsive Web Design, Authentication & Authorization, Deployment
+- **Other**: Linux (basic terminal), Docker (learning), Firebase (learning), GitHub Actions (CI/CD basics)
 
 ---
 
@@ -44,5 +47,5 @@ Stay tuned for real-world projects I'm building with modern web technologies �
 
 ---
 
-⭐ **“Henry always learn, compare and develop everything.”**
+<h1 align="center"> ⭐⭐⭐ **We always learn,compare and develop everything** ⭐⭐⭐</h1>
 
