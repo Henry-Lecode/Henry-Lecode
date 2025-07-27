@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Henry-Lecode/Henry-Lecode/blob/main/pngtree-data-the-internet-cloud-network-calculation-method-image_15285.jpg?raw=true](https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true)" width="1200" height="300"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true" width="1200" height="300"/>
 </p>
 <h1 align="center">🎉🎉 Welcome to Henry Lecode's profile 👋👋</h1>
 <h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress 🚀🚀</h3>
