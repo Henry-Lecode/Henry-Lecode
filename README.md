@@ -12,11 +12,11 @@
 🌱 Always curious and eager to discover new things in the world of tech  
 🎯 Career goal: Become a versatile developer in Web App, System, and AI domains
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/HTML.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/CSS.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
 </p>
 
 ---
@@ -31,13 +31,13 @@
 - **Core Concepts**: OOP, RESTful APIs, MVC, Responsive Web Design, Authentication & Authorization, Deployment
 - **Other**: Docker (learning), Firebase (learning), GitHub Actions (CI/CD basics)
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Github.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Node.js.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="45" height="45"/>
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring%20boot.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Github.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Node.js.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="40" height="40"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring%20boot.jpg?raw=true" width="40" height="40"/>
 </p>
 
 ---
