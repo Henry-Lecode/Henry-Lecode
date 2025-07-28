@@ -4,7 +4,9 @@
 <h1 align="center">🎉 Welcome To Henry Lecode's Profile 🎉</h1>
 <h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress ✨✨</h3>
 
----
+<p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+</p>
 
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
 💻 I'm passionate about **Fullstack Web Development** and exploring new technologies  
@@ -19,7 +21,9 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="40" height="40"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+</p>
 
 ### 🚀 Tech Stack 🚀
 
@@ -40,13 +44,17 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring%20boot.jpg?raw=true" width="40" height="40"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+</p>
 
 ### 📌 Featured Projects *(Coming soon)*
 
 Stay tuned for real-world projects I'm building with modern web technologies 🚀
 
----
+<p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -56,12 +64,16 @@ Stay tuned for real-world projects I'm building with modern web technologies �
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yHenry-Lecode&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="5"/>
+</p>
 
 📧 Email: [Click here to contact](mailto:minhphuoc10.24@gmail.com)  
 💌 Email: minhphuoc10.24 [at] gmail [dot] com
 
----
+<p align="center">
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="5"/>
+</p>
 
 <h3 align="center"> ⭐⭐ **Learning - Comparison - Dvelopment** ⭐⭐</h3>
 <h3 align="center"> ⭐⭐ **PURSUING PASSION** ⭐⭐</h3>
