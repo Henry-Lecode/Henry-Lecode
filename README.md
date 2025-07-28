@@ -31,13 +31,13 @@
 - **Core Concepts**: OOP, RESTful APIs, MVC, Responsive Web Design, Authentication & Authorization, Deployment
 - **Other**: Docker (learning), Firebase (learning), GitHub Actions (CI/CD basics)
 <p align="center">
-  <img src=" " width="45" height="45"/>
-  <img src=" " width="45" height="45"/>
-  <img src=" " width="45" height="45"/>
-  <img src=" " width="45" height="45"/>
-  <img src=" " width="45" height="45"/>
-  <img src=" " width="45" height="45"/>
-  <img src=" " width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Github.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Node.js.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/React.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/SQL.jpg?raw=true" width="45" height="45"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Spring%20boot.jpg?raw=true" width="45" height="45"/>
 </p>
 
 ---
