@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true" width="1200" height="300"/>
 </p>
-<h1 align="center">🎉🎉 Welcome to Henry Lecode's profile 👋👋</h1>
-<h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress 🚀🚀</h3>
+<h1 align="center">🎉 Welcome to Henry Lecode's profile 🎉</h1>
+<h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress ✨✨</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🔧 Tech Stack
+### 🚀 Tech Stack 🚀
 
 - **Languages**: C, Java, JavaScript, HTML, CSS, SQL
 - **Web Development**: Node.js, React, Spring Boot, Bootstrap
