@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Banner.jpg?raw=true" width="1200" height="300"/>
 </p>
-<h1 align="center">🎉 Welcome to Henry Lecode's profile 🎉</h1>
+<h1 align="center">🎉 Welcome To Henry Lecode's Profile 🎉</h1>
 <h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress ✨✨</h3>
 
 ---
