@@ -16,13 +16,13 @@
 
 ### 🔧 Tech Stack
 
-- **Languages**: C, Java, JavaScript, HTML, CSS, SQL, Python (for AI)
-- **Web Development**: Node.js, Express.js, React (learning), Spring Boot (learning), Bootstrap, JSP/Servlet
-- **Databases**: MySQL, PostgreSQL (learning), MongoDB (learning)
+- **Languages**: C, Java, JavaScript, HTML, CSS, SQL
+- **Web Development**: Node.js, React, Spring Boot, Bootstrap
+- **Databases**: SQL
 - **Version Control**: Git, GitHub
-- **Tools & IDEs**: VS Code, IntelliJ IDEA, Eclipse, Postman, Figma (for UI/UX)
+- **Tools & IDEs**: Data Grip, IntelliJ IDEA, Clion, Web Storm
 - **Core Concepts**: OOP, RESTful APIs, MVC, Responsive Web Design, Authentication & Authorization, Deployment
-- **Other**: Linux (basic terminal), Docker (learning), Firebase (learning), GitHub Actions (CI/CD basics)
+- **Other**: Docker (learning), Firebase (learning), GitHub Actions (CI/CD basics)
 
 ---
 
