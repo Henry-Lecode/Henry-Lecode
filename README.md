@@ -5,7 +5,7 @@
 <h3 align="center">✨✨ Software Engineering Student | Fullstack Developer in Progress ✨✨</h3>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 ### 🚀 Tech Stack 🚀
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 ### 📌 Featured Projects *(Coming soon)*
@@ -53,7 +53,7 @@
 Stay tuned for real-world projects I'm building with modern web technologies 🚀
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="5"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 ### 📊 GitHub Stats
@@ -65,14 +65,14 @@ Stay tuned for real-world projects I'm building with modern web technologies �
 </p>
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="5"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 📧 Email: [Click here to contact](mailto:minhphuoc10.24@gmail.com)  
 💌 Email: minhphuoc10.24 [at] gmail [dot] com
 
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="5"/>
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
 <h3 align="center"> ⭐⭐ **Learning - Comparison - Dvelopment** ⭐⭐</h3>
