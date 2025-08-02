@@ -9,10 +9,9 @@
 </p>
 
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
-💻 I'm passionate about **Fullstack Web Development** and exploring new technologies  
+💻 I'm passionate about **Software Engineering** and **Cybersecurity**  
 🧠 Currently learning: **C**, **Java**, **HTML**, **CSS**, **JavaScript**  
 🌱 Always curious and eager to discover new things in the world of tech  
-🎯 Career goal: Become a versatile developer in Web App, System, and AI domains
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="40" height="40"/>
@@ -27,13 +26,10 @@
 
 ### 🚀 Tech Stack 🚀
 
-- **Languages**: C, Java, JavaScript, HTML, CSS, SQL
+- **Languages**: C, Java, HTML, CSS, JavaScript
 - **Web Development**: Node.js, React, Spring Boot, Bootstrap
 - **Databases**: SQL
 - **Version Control**: Git, GitHub
-- **Tools & IDEs**: Data Grip, IntelliJ IDEA, Clion, Web Storm
-- **Core Concepts**: OOP, RESTful APIs, MVC, Responsive Web Design, Authentication & Authorization, Deployment
-- **Other**: Docker (learning), Firebase (learning), GitHub Actions (CI/CD basics)
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Bootstrap.jpg?raw=true" width="40" height="40"/>
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Git.jpg?raw=true" width="40" height="40"/>
