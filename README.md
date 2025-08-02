@@ -71,6 +71,6 @@ Stay tuned for real-world projects I'm building with modern web technologies �
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Whiteline.jpg?raw=true" width="1200" height="4"/>
 </p>
 
-<h3 align="center"> ⭐⭐ **Learning - Comparison - Dvelopment** ⭐⭐</h3>
+<h3 align="center"> ⭐⭐ **Learning - Comparison - Development** ⭐⭐</h3>
 <h3 align="center"> ⭐⭐ **PURSUING PASSION** ⭐⭐</h3>
 
