@@ -9,7 +9,7 @@
 </p>
 
 👨🏻‍🎓 I'm a student at **FPT University**, majoring in **Software Engineering**  
-💻 I'm passionate about **Software Engineering** and **Cybersecurity**  
+💻 I'm passionate about **Software Engineering** and **Cyber Security**  
 🧠 Currently learning: **C**, **Java**, **HTML**, **CSS**, **JavaScript**  
 🌱 Always curious and eager to discover new things in the world of tech  
 <p align="center">
